@@ -13,11 +13,5 @@
 1. Install requirements: `pip install -r requirements.txt`
 2. Run the app: `python main.py`
 
-
-
-The Report: You must write a 5-Chapter PDF.
-Chapter 1: Introduction (Why finance apps are good for students).
-Chapter 2: Literature Review (Compare your app to Excel or other apps).
-Chapter 3: Methodology (Show your folder structure).
-Chapter 4: Implementation (Screenshots of your app!).
-Chapter 5: Conclusion.
+## Project Demo
+![Watch the demo](assets/demo_video.mp4)
